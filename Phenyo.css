@@ -1,0 +1,54 @@
+.container
+{
+	
+ background-color=lightgrey;
+ width:300px;
+ border:15px solid green;
+ margin:20px; 
+ padding:20px;
+ outline-color:red;
+ outline-style:solid;
+ Outline-width:5px;
+ outline-offset: 5px;
+
+}
+
+
+hearder{
+border:2px solid;
+padding:50px
+resize:both;
+overflow:auto}
+
+.cars3{
+
+    width= 300px;
+    height=100px;
+    border=1px solid blue;
+}
+
+.cars4{
+    width: 300px;
+    height: 100px;
+    padding: 50px;
+    border: 1px solid red;
+    box-sizing: border-box;
+}
+
+.body{
+
+background-image:linear-gradient(solid violet)url(image/background.jpg);
+background-position: center;
+background-size: cover;
+}
+.header-btn
+{
+text-decoration:none
+border-radius: 30px;
+padding: 7px 20px;
+float:right ;
+margin-top: 15px;
+color: #fff !impotant;
+background # 107afd; 
+font-wieght:600;
+}
